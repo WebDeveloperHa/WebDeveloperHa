@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEQYVqtHA63IA/profile-displaybackgroundimage-shrink_350_1400/B56ZUzMz3iHsAY-/0/1740320757276?e=1748476800&v=beta&t=x1c_714odsV0S4riUfhE1c7hXT0HVdejJUd9brhlMg4">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEQYVqtHA63IA/profile-displaybackgroundimage-shrink_200_800/B56ZUzMz3iHsAU-/0/1740320757276?e=1776297600&v=beta&t=DlyPN9S1iw0uPRvW05gqozJ7U-PfO0LFfc5tb1Y3GxU">
 <h1 align="center">Hi 👋, I'm Md Hanif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [Freelancer](https://freedomitinstitutions.com/)
 
-- 🌱 I’m currently learning **PHP , MySQL**
+- 🌱 I’m currently learning **React , PostgresSQL**
 
 - 👯 I’m looking to collaborate on [Freedom IT Institutions](https://freedomitinstitutions.com/)
 
 - 👨‍💻 All of my projects are available at [https://freedomitinstitutions.com/](https://freedomitinstitutions.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootsrap, jQuery, WordPress Development**
+- 💬 Ask me about **Python, C#, HTML, CSS, JavaScript, Bootsrap, jQuery,PHP, MySQL, SQL, WordPress Development**
 
 - 📫 How to reach me **hanif.bng@gmail.com**
 
