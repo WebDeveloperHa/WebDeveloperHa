@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEQYVqtHA63IA/profile-displaybackgroundimage-shrink_200_800/B56ZUzMz3iHsAU-/0/1740320757276?e=1776297600&v=beta&t=DlyPN9S1iw0uPRvW05gqozJ7U-PfO0LFfc5tb1Y3GxU">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEQYVqtHA63IA/profile-displaybackgroundimage-shrink_350_1400/B56ZUzMz3iHsAY-/0/1740320757276?e=1784764800&v=beta&t=ZVvhfPEFfKegLWmiZlG9IOvY_7audx-K9xCn8TMtusg">
 <h1 align="center">Hi 👋, I'm Md Hanif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
